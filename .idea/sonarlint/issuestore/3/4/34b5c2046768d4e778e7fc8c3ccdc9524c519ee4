@@ -1,0 +1,13 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã…ù8ğË ù‰-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûú­Ùşÿÿÿÿ
+tsquid:S2159""VRemove this call to "equals"; comparisons between unrelated types always return false.(†ÈŸõ8ğË ù‰-
+ysquid:S21591"VRemove this call to "equals"; comparisons between unrelated types always return false.(è¹†şÿÿÿÿ8ğË ù‰-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(©«Äœ8ğË ù‰-
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ÌÈÿëÿÿÿÿÿ8ğË ù‰-
+qsquid:S1192#"NDefine a constant instead of duplicating this literal "COMPLETED job" 3 times.(ÌÈÿëÿÿÿÿÿ8û–Æù‰-
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ÌÈÿëÿÿÿÿÿ8ğË ù‰-

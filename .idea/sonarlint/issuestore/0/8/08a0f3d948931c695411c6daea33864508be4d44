@@ -1,0 +1,18 @@
+
+ssquid:UselessImportCheck"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş8¹š¤û‰-
+Lsquid:S1481N".Remove this unused "userRoles" local variable.(ú†¿’8É®ê‹-
+€squid:UselessImportCheck"PRemove this unused import 'org.springframework.batch.core.JobParametersBuilder'.(åÊ•Áùÿÿÿÿ8Û´ßê‹-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ú€ÜÕ
+gsquid:S1192)"IDefine a constant instead of duplicating this literal "password" 3 times.(«‡…ö8ş‰¿ê‹-
+tsquid:UselessImportCheck"IRemove this unused import 'org.springframework.batch.core.JobParameters'.(„Øº¬8Û´ßê‹-
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8ğ÷¿ê‹-
+[squid:S1854N"=Remove this useless assignment to local variable "userRoles".(ú†¿’8É®ê‹-
+Jsquid:S1612P",Replace this lambda with a method reference.(òèÉÒ8âÀ¯ı‰-
+~squid:UselessImportCheck	"NRemove this unused import 'org.springframework.batch.core.launch.JobLauncher'.(ãÍœøÿÿÿÿ8Û´ßê‹-
+Msquid:S1611P"/Remove the parentheses around the "s" parameter(òèÉÒ8İê¨ı‰-
+jsquid:UselessImportCheck"?Remove this unused import 'org.springframework.batch.core.Job'.(Âà»¥8Û´ßê‹-
+€squid:UselessImportCheck"PRemove this unused import 'org.springframework.scheduling.annotation.Scheduled'.(‚¡®Üûÿÿÿÿ8±º”÷‰-
+V
+squid:S106P"9Replace this use of System.out or System.err by a logger.(òèÉÒ8ïºı‰-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8È˜«ê‹-
+Xsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ğ÷¿ê‹-

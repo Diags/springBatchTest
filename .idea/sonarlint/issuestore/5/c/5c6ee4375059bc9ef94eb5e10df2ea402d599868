@@ -1,0 +1,5 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(þüÑ‰ýÿÿÿÿ
+[squid:CallToDeprecatedMethod""-Remove this use of "state"; it is deprecated.(øÓÉq8—±Ëð‰-
+gsquid:S4042&"IUse "java.nio.Files#delete" here for better messages on error conditions.(õª²Ì8—±Ëð‰-
+Rsquid:EmptyStatementUsageCheck"Remove this empty statement.(Åñ­õþÿÿÿÿ8—±Ëð‰-
